@@ -60,7 +60,7 @@
             android:layout_marginTop="24dp"
             android:layout_marginEnd="49dp"
             android:gravity="center"
-            android:text="Race Lenght:"
+            android:text="Race length:"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:textColor="@color/white"
             app:layout_constraintEnd_toEndOf="parent"
